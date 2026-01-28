@@ -23,14 +23,14 @@ A smart automation agent that simplifies expense tracking. It allows users to se
 1. **User sends input** (e.g., voice note) to Telegram.
 2. **Make.com** triggers the scenario and downloads the file.
 3. **Gemini AI** analyzes the content:
-   - If it's an expense -> Extracts `Amount`, `Category`, `Date`.
+   - If it's an expense -> Extracts `price`, `Category`, `Date`.
    - If it's a photo -> OCRs the receipt.
 4. Data is validated and **added to Google Sheets**.
 5. **Looker Studio** updates the dashboard in real-time.
 
 ## 📸 Screenshots
 
-*(You can upload screenshots of your Make scenario or Looker Dashboard here later)*
+
 
 ---
 *Built with ❤️ by [Your Name]*
