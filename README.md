@@ -30,6 +30,7 @@ A smart automation agent that simplifies expense tracking. It allows users to se
 
 ## 📸 Screenshots
 
+![Dashboard Image](اسم_الصورة_بالضبط.jpg)
 
 
 ---
