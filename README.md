@@ -34,4 +34,4 @@ A smart automation agent that simplifies expense tracking. It allows users to se
 
 
 ---
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by [Youssef Ehab]*
